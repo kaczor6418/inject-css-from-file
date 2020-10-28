@@ -1,4 +1,4 @@
-import style from "./index.scss";
+import style from "./index.css";
 
 const template = `
 <style>${style}</style>
