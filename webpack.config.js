@@ -27,8 +27,5 @@ module.exports = {
             template: path.resolve(__dirname, 'index.html'),
             filename: 'index.html',
         }),
-    ],
-    experiments: {
-        syncWebAssembly: true
-    }
+    ]
 };
